@@ -1,0 +1,6 @@
+yee
+*.png
+*.exe
+*.o
+.vscode/
+!a.png
